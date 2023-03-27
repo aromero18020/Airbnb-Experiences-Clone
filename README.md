@@ -12,7 +12,7 @@ Airbnb Experiences Design is a simple web application that displays a design of 
 
 ## Installation
 
-Clone the repository: git clone https://github.com/aromero18020/Airbnb-Experiences.git
+Clone the repository: git clone https://github.com/aromero18020/Airbnb-Experiences-Clone.git
 Install dependencies: npm install
 Run the app: npm start
 
