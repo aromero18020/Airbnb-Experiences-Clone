@@ -1,8 +1,8 @@
-#Airbnb Experiences Clone
+# Airbnb Experiences Clone
 
 Airbnb Experiences Design is a simple web application that displays a design of the Airbnb Experiences section of the Airbnb website. This project is a static design-only implementation, and it does not offer any searchability or booking functionalities. The primary goal of this project is to demonstrate an understanding of basic React components and their interactions.
 
-##Technologies Used
+## Technologies Used
 
  - HTML
  - CSS
@@ -10,17 +10,14 @@ Airbnb Experiences Design is a simple web application that displays a design of 
  - React
  - Vite.js
 
-##Installation
+## Installation
 
 Clone the repository: git clone https://github.com/aromero18020/Airbnb-Experiences-Design.git
 Install dependencies: npm install
 Run the app: npm start
 
-##Usage
+## Usage
 The application is straightforward to use. The user interface displays various Airbnb experience cards, The design aims to showcase the different aspects of an Airbnb Experience, including images, titles, descriptions, and reviews.
 
-##Contributing
-Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
-
-##Credits
+## Credits
 Project Designed by Scrimba and recreated by aromero18020
